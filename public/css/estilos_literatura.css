@@ -1,0 +1,70 @@
+
+/*.literature-page {
+    padding: 20px;
+}
+
+.literature-page h1 {
+    text-align: center;
+}
+
+.tasks {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.task-list {
+    width: 48%;
+}
+
+.task-list h2 {
+    text-align: center;
+}
+
+.task-list .task {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}*/
+
+.literature-page {
+    padding: 20px;
+}
+
+.literature-page h1 {
+    text-align: center;
+}
+
+.tasks {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.task-list {
+    width: 48%;
+}
+
+.task-list h2 {
+    text-align: center;
+}
+
+.task-list .task {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+html, body {
+    color: #2C2C2C;
+    font-size: 15px;
+    letter-spacing: -.01em;
+    padding-block-end: 8%;
+}
